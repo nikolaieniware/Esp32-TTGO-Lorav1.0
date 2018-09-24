@@ -1,8 +1,6 @@
 /* ************************************************************** 
  * Arduino sketch 
  * Author: Nikolai Manchev (Eniware Open Source Association)
- * Generated with Generate script by Jan de Laet
- * Modified 12-1-2018 by Pierre Gorissen for use with
  * U8X8 OLED + SX1276 + DHT11
  * 
  * *************************************************************/
